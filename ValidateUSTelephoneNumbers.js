@@ -5,7 +5,4 @@ function telephoneCheck(str) {
   //use the test method to test our str input against our regular expression
   return regularex.test(str);
 }
-
-
-
 telephoneCheck("555-555-5555");
